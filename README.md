@@ -97,3 +97,18 @@ themselves. How should I code that?
 Could you give an example, please (e.g., a photo with the relevant example
 marked)? That would make things more tangible.
 I’ve included a photo of #19’s response of interaction with himself. 
+
+
+## Info
+
+## Obtain networks:
+`preprocessing.ipynb` -> obtain base networks from the data
+`create_tl_edges.ipynb` -> obtain advanced networks from the data
+
+# Procude analysis:
+`centrality_correlations.ipynb` -> analyse networks with pandas-profiling
+`curve_modelling.ipynb` -> analyse features in context of the time
+
+
+# Ground truth raw data
+`data/whitby_03_07_Peer Interaction in SA_Jordan_22_Questionnaire 1_2_3_total data set.csv`
