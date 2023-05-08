@@ -104,6 +104,7 @@ I’ve included a photo of #19’s response of interaction with himself.
 ## Obtain networks:
 `preprocessing.ipynb` -> obtain base networks from the data
 `create_tl_edges.ipynb` -> obtain advanced networks from the data
+`create_nc_edges.ipynb` -> obtain course network with filtered out data
 
 # Procude analysis:
 `centrality_correlations.ipynb` -> analyse networks with pandas-profiling
